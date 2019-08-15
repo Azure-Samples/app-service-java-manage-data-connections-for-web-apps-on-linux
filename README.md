@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Appservice
-platforms: java
-author: yaohaizh
+extensions:
+- services: Appservice
+- platforms: java
 ---
 
-## Getting Started with Appservice - Manage Linux Web App Sql Connection - in Java ##
+# Getting Started with Appservice - Manage Linux Web App Sql Connection - in Java #
 
 
   Azure App Service basic sample for managing web apps.
