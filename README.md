@@ -8,7 +8,7 @@ description: "Azure App Service basic sample for managing web apps."
 urlFragment: app-service-java-manage-data-connections-for-web-apps-on-linux
 ---
 
-# Getting Started with Appservice - Manage Linux Web App Sql Connection - in Java #
+# Getting Started with Appservice - Manage Linux Web App Sql Connection - in Java
 
 
   Azure App Service basic sample for managing web apps.
@@ -19,7 +19,7 @@ urlFragment: app-service-java-manage-data-connections-for-web-apps-on-linux
    - Clean up
  
 
-## Running this Sample ##
+## Running this Sample
 
 To run this sample:
 
@@ -31,7 +31,7 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
     mvn clean compile exec:java
 
-## More information ##
+## More information
 
 [http://azure.com/java](http://azure.com/java)
 
