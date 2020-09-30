@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Appservice
-- platforms: java
+  services: Appservice
+  platforms: java
 ---
 
 # Getting Started with Appservice - Manage Linux Web App Sql Connection - in Java #
